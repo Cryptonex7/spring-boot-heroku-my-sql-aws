@@ -1,6 +1,6 @@
 package com.anujeetchatterjee.sqlmsqlv2.controller;
 
-import com.anujeetchatterjee.sqlmsqlv2.entity.Citizen;
+import com.anujeetchatterjee.sqlmsqlv2.models.Citizen;
 import com.anujeetchatterjee.sqlmsqlv2.helper.CSVHelper;
 import com.anujeetchatterjee.sqlmsqlv2.service.CitizenService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
 package com.anujeetchatterjee.sqlmsqlv2.repository;
 
-import com.anujeetchatterjee.sqlmsqlv2.entity.Citizen;
+import com.anujeetchatterjee.sqlmsqlv2.models.Citizen;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
